@@ -17,3 +17,5 @@
 ![image](https://user-images.githubusercontent.com/116658648/213633704-6b189580-37f6-440b-b854-f31bb71ec691.png)
 
 ![image](https://user-images.githubusercontent.com/116658648/213704865-a73cd9fa-a294-4b46-a7c1-a7f31ef14f14.png)
+
+### Follow for more details [GraphQL](https://github.com/VaibhavDabral11/GraphQL-CURD-)
